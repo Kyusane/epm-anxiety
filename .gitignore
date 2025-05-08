@@ -1,0 +1,10 @@
+output
+build
+dist
+venv
+*.zip
+heatmap.py
+heatmap_kde.png
+hm.py
+main.spec
+__pycache__
